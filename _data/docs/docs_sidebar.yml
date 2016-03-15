@@ -1,0 +1,76 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+# Sidebar
+entries:
+- title: Sidebar
+  subcategories:
+  - title:
+    audience: developers
+    platform: all
+    product: all
+    version: all
+    output: pdf
+    type: frontmatter
+    items:
+    - title:
+      url: /titlepage.html
+      audience: developers
+      platform: all
+      product: all
+      version: all
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      audience: developers
+      platform: all
+      product: all
+      version: all
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    audience: developers
+    platform: all
+    product: all
+    version: all
+    output: web, pdf
+    items:
+    - title: Introduction
+      url: /docs/home.html
+      audience: developers
+      platform: all
+      product: all
+      version: all
+      output: web, pdf
+
+  - title: Get started
+    audience: developers
+    platform: all
+    product: all
+    version: all
+    output: web, pdf
+    items:
+    - title: Quickstart Guide
+      url: /docs/docs_quickstart.html
+      audience: developers
+      platform: all
+      product: all
+      version: all
+      output: web, pdf
+
+    - title: Working with Data
+      url: /docs/docs_working_with_data.html
+      audience: developers
+      platform: all
+      product: all
+      version: all
+      output: web, pdf
+
+    - title: Calibration and Logging
+      url: /docs/docs_calibration_and_logging.html
+      audience: developers
+      platform: all
+      product: all
+      version: all
+      output: web, pdf

@@ -1,0 +1,55 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  subcategories:
+#    - title: Sample
+#      url: /mydoc/sample.html
+#      audience: all
+#      platform: all
+#      product: all
+#      version: all
+#      output: web
+
+    - title: xLabs Gaze User Manual
+      external_url: https://xlabsgaze.com/user-manual/
+      audience: developers
+      platform: all
+      product: all
+      version: all
+      output: web
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  subcategories:
+    - title: API and Demos
+      audience: developers
+      platform: all
+      product: all
+      version: all
+      output: web
+      items:
+        - title: API Registration
+          external_url: https://xlabsgaze.com/registration/
+          audience: developers
+          platform: all
+          product: all
+          version: all
+          output: web
+
+        - title: Online Demo
+          external_url: https://xlabsgaze.com/demo/
+          audience: developers
+          platform: all
+          product: all
+          version: all
+          output: web
+
+        - title: Get the Chrome Extension
+          external_url: https://chrome.google.com/webstore/detail/xlabs-headeyegaze-tracker/emeeadaoegehllidjmmokeaahobondco
+          audience: developers
+          platform: all
+          product: all
+          version: all
+          output: web

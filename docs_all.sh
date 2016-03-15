@@ -1,0 +1,1 @@
+. docs_1_multiserve_pdf.sh; . docs_2_multibuild_pdf.sh; . docs_3_multibuild_web.sh; . docs_4_publish.sh;
