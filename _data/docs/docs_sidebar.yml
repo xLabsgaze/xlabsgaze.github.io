@@ -43,6 +43,27 @@ entries:
       product: all
       version: all
       output: web, pdf
+    - title: xLabs and xLabsgaze
+      url: /docs/docs_xlabs_and_gaze.html
+      audience: developers
+      platform: all
+      product: all
+      version: all
+      output: web, pdf
+    - title: Usage policy
+      url: /docs/docs_usage_policy.html
+      audience: developers
+      platform: all
+      product: all
+      version: all
+      output: web, pdf
+    - title: Architecture
+      url: /docs/docs_architecture.html
+      audience: developers
+      platform: all
+      product: all
+      version: all
+      output: web, pdf
 
   - title: Get started
     audience: developers
@@ -51,7 +72,7 @@ entries:
     version: all
     output: web, pdf
     items:
-    - title: Quickstart Guide
+    - title: Quickstart guide
       url: /docs/docs_quickstart.html
       audience: developers
       platform: all
@@ -59,7 +80,7 @@ entries:
       version: all
       output: web, pdf
 
-    - title: Working with Data
+    - title: Working with data
       url: /docs/docs_working_with_data.html
       audience: developers
       platform: all
@@ -67,8 +88,30 @@ entries:
       version: all
       output: web, pdf
 
-    - title: Calibration and Logging
+    - title: Calibration and logging
       url: /docs/docs_calibration_and_logging.html
+      audience: developers
+      platform: all
+      product: all
+      version: all
+      output: web, pdf
+      
+  - title: Javascript reference
+    audience: developers
+    platform: all
+    product: all
+    version: all
+    output: web, pdf
+    items:
+    - title: Syntax and commands
+      url: /docs/docs_javascript_syntax.html
+      audience: developers
+      platform: all
+      product: all
+      version: all
+      output: web, pdf
+    - title: Properties
+      url: /docs/docs_javascript_properties.html
       audience: developers
       platform: all
       product: all
